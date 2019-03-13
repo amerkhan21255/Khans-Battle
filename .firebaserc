@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "production": "khans-battle",
+    "default": "khans-battle"
+  }
+}
