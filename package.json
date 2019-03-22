@@ -18,6 +18,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@babel/polyfill": "^7.4.0",
+    "babel": "^6.23.0",
     "query-string": "^6.3.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
